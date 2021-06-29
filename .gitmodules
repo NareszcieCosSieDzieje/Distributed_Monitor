@@ -1,0 +1,6 @@
+[submodule "JavaMonitor"]
+	path = JavaMonitor
+	url = https://github.com/Krajzys/JavaMonitor/
+[submodule "DistributedMonitorPython"]
+	path = DistributedMonitorPython
+	url = https://github.com/NareszcieCosSieDzieje/DistributedMonitorPython
